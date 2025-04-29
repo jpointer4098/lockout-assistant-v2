@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebooks (optional)
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Local config
+*.env
+.env.*
+
+# VSCode or other IDEs
+.vscode/
+.idea/

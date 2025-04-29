@@ -1,1 +1,2 @@
-# lockout-assistant-v2
+# Lockout Assistant v2
+Smart AI-based lockout analyst for security and IT teams.
